@@ -1,0 +1,48 @@
+* {
+  color: darkgrey;
+}
+
+body {
+  background-color: rgb(35, 35, 35)
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dog {
+  height: 175px;
+  width: 350px;
+}
+
+.image-container {
+  display: flex;
+}
+
+h2 {
+  text-align: center;
+}
+
+.doggos {
+  border: 3px solid rgb(50, 50, 218);
+  border-radius: 10px;
+}
+
+.squares {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.quote {
+  text-align: center;
+}
+
+.thor {
+  text-align: end;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
